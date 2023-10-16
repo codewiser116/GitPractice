@@ -4,7 +4,7 @@ public class GitClass {
     //added changed2 -> Aika
     //added changed 3 -> Aika
     //added line 4-> Aika
-    // added line 6->
+    // added line7-> Aika
 
 
 }
